@@ -5,8 +5,6 @@ I made this website as a freelance project for a local grocery store. The front 
 ##
 Front-end can be tested on localhost by running `npm start` from the root directory. 
 
-<img width="1440" alt="Screenshot 2023-03-22 at 9 30 41 AM" src="https://user-images.githubusercontent.com/40910520/226924111-dfe0a650-cd26-4db5-9c34-857b71f00eed.png">
-
 <img width="1435" alt="Screenshot 2023-03-22 at 9 31 52 AM" src="https://user-images.githubusercontent.com/40910520/226924341-a279c3aa-8a5f-4a9c-8220-9b0301de434d.png">
 
 <img width="1440" alt="Screenshot 2023-03-22 at 9 32 04 AM" src="https://user-images.githubusercontent.com/40910520/226924452-dc1778ac-cf40-48a1-8845-b2486e3fe869.png">
