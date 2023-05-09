@@ -1,4 +1,4 @@
-# Mary Hill Market Website (MERN)
+# Mary Hill Market Website (https://d1mtcic3v3ldp3.cloudfront.net/)
 
 I made this website as a freelance project for a local grocery store. The front end is made with *React, react-dom* and *MUI*. The back-end is still in progress, made with node *express* and *mongoDB (mongoose)* as DB. 
 
